@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<version>
+        <name>0.0.3</name>
+        <files>
+            <file>
+                <url>http://yourwebsite.domain/path/to/your/file.exe</url>
+                <destination>NameOfYourFile.exe</destination>
+            </file>
+            <file>
+                <url>http://yourwebsite.domain/path/to/your/file2.dll</url>
+                <destination>NameOfYourFile2.dll</destination>
+            </file>
+        </files>
+    </version>
